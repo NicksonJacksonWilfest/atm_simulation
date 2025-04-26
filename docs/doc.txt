@@ -1,0 +1,41 @@
+ATM Simulation Documentation
+============================
+
+Overview:
+---------
+This document provides an overview of the ATM simulation project. The simulation is designed to mimic the basic functionalities of an Automated Teller Machine (ATM), including account management, balance inquiry, deposits, and withdrawals.
+
+Features:
+---------
+1. User Authentication:
+    - Secure login with PIN verification.
+
+2. Account Management:
+    - View account details.
+    - Check account balance.
+
+3. Transactions:
+    - Deposit funds.
+    - Withdraw funds.
+    - View transaction history.
+
+4. Error Handling:
+    - Insufficient funds warning.
+    - Invalid input handling.
+
+Usage:
+------
+1. Start the simulation by running the main program.
+2. Log in using your account number and PIN.
+3. Navigate through the menu to perform desired actions.
+4. Log out after completing your transactions.
+
+Future Enhancements:
+--------------------
+- Add support for multiple currencies.
+- Implement fund transfers between accounts.
+- Introduce a graphical user interface (GUI).
+
+Author:
+-------
+Nickson

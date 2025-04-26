@@ -1,0 +1,11 @@
+2025-04-17 13:10:41,863 [DEBUG] Hashing PIN
+2025-04-17 13:10:41,864 [DEBUG] Hashing biometric template
+2025-04-17 13:10:41,864 [INFO] ATM initialized with balance $1000.00
+2025-04-17 13:10:49,658 [DEBUG] Hashing PIN
+2025-04-17 13:10:49,658 [INFO] PIN verification successful
+2025-04-17 13:10:49,658 [INFO] Generated OTP (valid for 30 seconds)
+2025-04-17 13:10:57,533 [INFO] OTP verification successful
+2025-04-17 13:11:00,477 [WARNING] Fingerprint scan failed. Attempts remaining: 2
+2025-04-17 13:11:02,614 [INFO] Fingerprint scan successful
+2025-04-17 13:11:02,615 [INFO] MFA authentication successful
+2025-04-17 13:11:14,505 [INFO] User exited ATM
